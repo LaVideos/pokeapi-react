@@ -1,0 +1,36 @@
+.ability-container{
+  padding: 10px;
+
+}
+
+.ability-name{
+  background: var(--red);
+  color: var(--bg);
+  padding: 5px;
+}
+
+.ability-hidden{
+  background: var(--orange);
+  color: var(--bg);
+  padding: 5px;
+}
+
+.ability-slot{
+  display: flex;
+  justify-content: space-between;
+  margin-right: 18px;
+}
+
+.link{
+  font-size: 14px;
+}
+
+.slot-text{
+  margin-right: 10px;
+}
+
+.badge>span{
+  background: var(--yellow);
+  color: #000000;
+  font-weight: 700;
+}

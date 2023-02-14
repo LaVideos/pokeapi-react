@@ -1,0 +1,30 @@
+.types-container{
+  padding: 10px;
+}
+
+.types-name{
+  background: var(--blue);
+  color: var(--bg);
+  padding: 5px;
+}
+
+.types-slot{
+  display: flex;
+  justify-content: space-between;
+  margin-right: 18px;
+}
+
+
+.link{
+  font-size: 14px;
+}
+
+.slot-text{
+  margin-right: 10px;
+}
+
+.badge>span{
+  background: var(--red);
+  color: #000000;
+  font-weight: 700;
+}
